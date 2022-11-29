@@ -8,9 +8,12 @@ Home Page.
  => show product.
  => Search bar.
 
-Cart Page.
+ Order.
+  => cart.
+  => Checkout.
+
+
 Wishlist.
-Checkout Page.
 Product Page.
     => Details, rating.
     => Reviews.
