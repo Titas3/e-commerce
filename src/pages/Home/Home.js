@@ -46,8 +46,8 @@ useEffect(()=>{
     {/*Products.*/} 
     <div className="row">
     {products.map((product, i)=>(
-        <div className="col-3">
-        < ProductCard item={product} value={i} / > </div>))}
+        <div key={product.id} className="col-3">
+        < ProductCard key={product.id} item={product} value={i} / > </div>))}
     </div>
     
         

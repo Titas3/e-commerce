@@ -7,6 +7,8 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap';
 import Register from './componenets/Home/Register/Register';
+import Login from './pages/login/login';
+import Cart from './pages/Cart/Cart';
 // import Register from './componenets/Home/Register/Register';
 // import reportWebVitals from './reportWebVitals';
 
@@ -17,6 +19,9 @@ root.render(
   <Routes>
   <Route path='/Home' element={<Home />}></Route>
   <Route path='/register' element={<Register/>}></Route>
+  <Route path='/login' element={<Login/>}></Route>
+  <Route path='/cart' element={<Cart />}></Route>
+  <Route path='/' element={<Register/>}></Route>
   </Routes>
   </BrowserRouter>
     // <Home />

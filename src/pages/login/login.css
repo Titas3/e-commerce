@@ -1,0 +1,22 @@
+
+.container{
+    /* margin: 12% !important; */
+    /* padding: 24% !important; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+}
+.login{
+    height: 100%;
+}
+
+.login-form{
+    width: 30%;
+}
+
+h3{
+    text-align: center;
+    margin-bottom: 34px;
+}

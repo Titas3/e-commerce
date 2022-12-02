@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Apple iPhone 14 256GB Blue",
+        "price" : "₹87,400",
+        "details" : "Apple iPhone 14 256GB Blue Created By Apple ",
+        "image" : "https://m.media-amazon.com/images/I/61bK6PMOC3L._SX679_.jpg"
+    },
+    {
+        "name": "MI Power Bank Hypersonic 20000mAh 50W",
+        "price" : "₹3,699",
+        "details" : "Lithium Polymer Supports Laptop Charging 50W Mobile Charging | Power Delivery 3.0 Fast Charging | Triple Output Port (Black)",
+        "image" : "https://m.media-amazon.com/images/I/71uxFBB3OtL._SX569_.jpg"
+    },
+
+    {
+        "name": "boAt Rockerz 550 Over Ear Bluetooth",
+        "price" : "₹1,799",
+        "details" : "Headphones with Upto 20 Hours Playback, 50MM Drivers, Soft Padded Ear Cushions and Physical Noise Isolation, Without Mic (Black)",
+        "image" : "https://m.media-amazon.com/images/I/41PlZjYsy-L._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+        "name": "Fujifilm X-S10 Mirrorless Camera",
+        "price" : "₹92,890",
+        "details" : "(Digital Zoom, APS-C X-Trans CMOS 4 Sensor, EVF, IBIS, Vari-Angle LCD Touchscreen, Face/Eye AF, 4K/30P & FHD/240P Video Vlogging, Film Simulations) - Black",
+        "image" : "https://m.media-amazon.com/images/I/61ztRePYVKL._SY450_.jpg"
+    },
+    {
+        "name": "D-Link DIR-1950",
+        "price" : "₹5,751",
+        "details" : "D-Link DIR-1950 AC 1900 MU-MIMO Daul Band EasyMesh WiFi Router, 5 Gigabit Port, 4 External Antenna, Voice Control Compatible, Profile Based Parental Control, Black",
+        "image" : "https://m.media-amazon.com/images/I/410DQCJmisL._SX450_.jpg"
+    },
+    {
+        "name": "Apple 2022 iPad Air",
+        "price" : "₹54,900.",
+        "details" : "Apple 2022 iPad Air M1 Chip (10.9-inch/27.69 cm, Wi-Fi, 64GB) - Blue (5th Generation)",
+        "image" : "https://m.media-amazon.com/images/I/71VbHaAqbML._SX679_.jpg"
+    },
+    {
+        "name": "Dell Inspiron 7400 11th Gen Intel i5-1135G7",
+        "price" : "₹74,500.",
+        "details" : "Dell Inspiron 7400 11th Gen Intel i5-1135G7 14.5 inches(36cm) QHD+ IPS Anti Glare Display / 8 GB / 512 SSD / Nvidia MX 350 2 GB Graphics / Windows 10 + MSO Laptop (Silver, 1.35 kg) D560381WIN9S",
+        "image" : "https://m.media-amazon.com/images/I/61y-dK-6VhL._SY450_.jpg"
+    },
+    {
+        "name": "Lifelong Treadmill LLTM162 Fit",
+        "price" : "₹12,999.",
+        "details" : "Lifelong Treadmill LLTM162 Fit Pro 2 HP Peak DC Motorized|Under Desk Treadmill| Home Workout | Max Speed 8 Km/Hr | Walking Pad | Max User Weight 110 Kg | Free Installation Assistance | Black",
+        "image" : "https://m.media-amazon.com/images/I/41vsnL59b4L._SX300_SY300_QL70_FMwebp_.jpg"
+    }
+]
